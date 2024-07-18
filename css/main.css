@@ -1387,7 +1387,7 @@ margin-top: 202px;
     height: 520px;
   }
   .ipados .figure-split-view figure {
-    transform: translate(-17px, 187px);
+    transform: translate(-17px, -187px);
   }
   .ipados .figure-split-view figure img {
     width: 441px;
@@ -1579,7 +1579,7 @@ margin-top: 202px;
     transform: scale(.8) translate(14px, 339px);
   }
   .apps .figure-books figure {
-    transform: translate(43px, -94px);
+    transform: translate(42px, -94px);
   }
   .apps .figure-books figure img {
     width: 330px;
@@ -1635,31 +1635,31 @@ margin-top: 202px;
     transform: scale(.8) translate(233px, 295px);
   }
   .apps .figure-fantasian figure {
-
+    transform: translate(19px, -82px);
   }
   .apps .figure-fantasian figure img {
-
+    width: 358px;
   }
   .apps .figure-fantasian figcaption {
-
+    transform: scale(.8) translate(24px, 282px);
   }
   .apps .figure-books figure {
-
+    transform: translate(-100px, -40px);
   }
   .apps .figure-books figure img {
-
+    width: 270px;
   }
   .apps .figure-books figcaption {
-
+    transform: scale(.8) translate(197px, 407px);
   }
   .apps .figure-goodnotes figure {
-
+    transform: translate(132px, -110px);
   }
   .apps .figure-goodnotes figure img {
-
+    width: 286px;
   }
   .apps .figure-goodnotes figcaption {
-
+    transform: scale(.8) translate(24px, -37px);
   }
 }
 
